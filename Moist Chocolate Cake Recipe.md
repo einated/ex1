@@ -13,7 +13,9 @@
 - 1 cup milk
 - 2 large eggs
 - 1 teaspoon vanilla extract
-###FAVORITE ICING:###
+
+####FAVORITE ICING:####
+
 - 1 cup milk
 - 5 tablespoons all-purpose flour
 - 1/2 cup butter, softened
